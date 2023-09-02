@@ -1,0 +1,9 @@
+setup.py
+entrega_2/__init__.py
+entrega_2/class_cliente.py
+entrega_2/funciones.py
+entrega_2/main.py
+segunda_pre_entrega_Manzo.egg-info/PKG-INFO
+segunda_pre_entrega_Manzo.egg-info/SOURCES.txt
+segunda_pre_entrega_Manzo.egg-info/dependency_links.txt
+segunda_pre_entrega_Manzo.egg-info/top_level.txt
